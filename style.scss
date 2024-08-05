@@ -319,8 +319,8 @@ img {
 //
 
 .wrapper-sidebar {
-  width: 100%;
-  height: auto;
+  width: 30%;
+  height: 100%;
   top: 0;
   left: 0;
   position: fixed;
@@ -340,7 +340,6 @@ img {
     position: relative;
     border-bottom: 1px solid $divider-color;
     border-right: 0;
-    background-size: contain; // 手机端使用contain以适应图片
   }
 }
 
