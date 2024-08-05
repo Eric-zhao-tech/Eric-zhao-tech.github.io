@@ -7,6 +7,7 @@ comments: true
 author: eric
 ---
 
+<!-- more -->
 
 # 这是一级标题-一级标题一般一篇文章只有一个
 ## 这是二级标题
