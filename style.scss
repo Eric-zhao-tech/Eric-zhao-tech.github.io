@@ -376,6 +376,7 @@ img {
     img {
       display: inline-block;
       border-radius: 2px;
+      opacity: 0.8; // 添加透明度设置，值在0到1之间
     }
   }
 }
