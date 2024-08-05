@@ -1,4 +1,12 @@
-# markdown test
+---
+layout: post
+title: "markdown test"
+date:   2024-8-4
+tags: [geek]
+comments: true
+author: eric
+---
+
 
 # 这是一级标题-一级标题一般一篇文章只有一个
 ## 这是二级标题
