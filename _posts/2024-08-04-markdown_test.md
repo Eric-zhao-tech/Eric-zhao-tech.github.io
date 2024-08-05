@@ -2,7 +2,7 @@
 layout: post
 title: "markdown test"
 date:   2024-8-4
-tags: [geek]
+tags: [markdown]
 comments: true
 author: eric
 ---
