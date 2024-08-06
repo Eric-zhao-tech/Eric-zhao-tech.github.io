@@ -17,6 +17,8 @@ author: eric
 <span style="color: purple;">游戏改编</span>×3
 <span style="color: orange;">其他题材改编</span>×4
 
+*ps：手机端竖屏目前还在测试，适配并不是很好，推荐横屏使用*
+
 **个人推荐度评分：**
 
 | A观感较好，必看           | <img   src="https://github.com/Eric-zhao-tech/Eric-zhao-tech.github.io/blob/master/images/2024-08-05-August_anime/A35d96aa29e8e06e0f7b9579ded48c59d512995925.jpg?raw=true"   width="100"> | <img   src="https://github.com/Eric-zhao-tech/Eric-zhao-tech.github.io/blob/master/images/2024-08-05-August_anime/A475354_QyO6r.jpg?raw=true"   width="100">                              | <img   src="https://github.com/Eric-zhao-tech/Eric-zhao-tech.github.io/blob/master/images/2024-08-05-August_anime/A5efe046c9af6662fda816f036e901d49512995925.jpg?raw=true"   width="100">       | <img   src="https://github.com/Eric-zhao-tech/Eric-zhao-tech.github.io/blob/master/images/2024-08-05-August_anime/A79738d896af060ea4b0f40a9ad67b3db512995925.jpg?raw=true"   width="100"> | <img   src="https://github.com/Eric-zhao-tech/Eric-zhao-tech.github.io/blob/master/images/2024-08-05-August_anime/A7f409d9103ae57f6795c49105c541e6b512995925.jpg?raw=true"   width="100"> |                                                                                                                                                                                           |                                                                                                                                                                                           |
